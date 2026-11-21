@@ -1,12 +1,12 @@
-\# Mohak Taheem — Developer Portfolio
+# Mohak Taheem — Developer Portfolio
 
 
 
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Expected Graduation: 2030
+ B.Tech CSE Student | K.R. Mangalam University, Gurugram | Expected Graduation: 2030
 
 
 
-\## About Me
+## About Me
 
 
 
@@ -18,7 +18,7 @@ Currently learning Python, C++, JavaScript, Linux, and Git/GitHub.
 
 
 
-\## Repository Index
+## Repository Index
 
 
 
@@ -26,59 +26,59 @@ Currently learning Python, C++, JavaScript, Linux, and Git/GitHub.
 
 |---|---|---|---|
 
-| \[cse103-lab-LAB3](https://github.com/MohakAiE/cse103-lab-LAB3) | CSE103 lab work and practical exercises | Python, Git, Linux, Bash | Active |
+| [cse103-lab-LAB3](https://github.com/MohakAiE/cse103-lab-LAB3) | CSE103 lab work and practical exercises | Python, Git, Linux, Bash | Active |
 
-| \[developer-portfolio](https://github.com/MohakAiE/developer-portfolio) | Central portfolio index | Markdown, GitHub | Active |
-
-
-
-\## Technical Skills
+| [developer-portfolio](https://github.com/MohakAiE/developer-portfolio) | Central portfolio index | Markdown, GitHub | Active |
 
 
 
-\- Programming: Python, C++, JavaScript
-
-\- Web Development: HTML, CSS
-
-\- Tools: Git, GitHub, VS Code, Linux, Postman
-
-\- Concepts: REST APIs, Version Control, Shell Scripting
+## Technical Skills
 
 
 
-\## Projects
+- Programming: Python, C++, JavaScript
+
+- Web Development: HTML, CSS
+
+- Tools: Git, GitHub, VS Code, Linux, Postman
+
+- Concepts: REST APIs, Version Control, Shell Scripting
 
 
 
-\### FinWise
+## Projects
+
+
+
+### FinWise
 
 An AI-assisted financial education platform built using React, Supabase, and Gemini.
 
 
 
-\### CSE103 Lab Projects
+### CSE103 Lab Projects
 
 Practical exercises involving Git workflows, Linux commands, API interaction, and documentation.
 
 
 
-\## Certifications \& Achievements
+## Certifications & Achievements
 
 
 
-\- AutoKriti — IoT (AI/ML domain), NIT Kurukshetra.
+- AutoKriti — IoT (AI/ML domain), NIT Kurukshetra.
 
-\- Aarambhathon — Hackathon participation.
-
-
-
-\## Connect With Me
+- Aarambhathon — Hackathon participation.
 
 
 
-\- LinkedIn: https://www.linkedin.com/in/mohak-taheem-67776836b/
+## Connect With Me
 
-\- GitHub: https://github.com/MohakAiE
 
-\- Email: 2601730175@krmu.edu.in
+
+- LinkedIn: https://www.linkedin.com/in/mohak-taheem-67776836b/
+
+- GitHub: https://github.com/MohakAiE
+
+- Email: 2601730175@krmu.edu.in
 
