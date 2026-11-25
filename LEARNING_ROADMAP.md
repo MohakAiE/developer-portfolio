@@ -42,12 +42,12 @@
                                                      fundamentals
   ------------------------------------------------------------------------
 
-Python is rated 2/4 
-DSA is rated 1/4
-Linux/Bash is rated 2/4 
-Git/GitHub is rated 2/4 
-Databases is rated 2/4 
-Web Development is 3/4
+Python is rated 2/4 \
+DSA is rated 1/4\
+Linux/Bash is rated 2/4 \
+Git/GitHub is rated 2/4 \
+Databases is rated 2/4 \
+Web Development is 3/4\
 
 ## 2. Six-Semester Learning Roadmap
 
