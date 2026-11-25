@@ -340,7 +340,7 @@ work as completed.
 
 ## 5. Mentorship Plan
 
-**Faculty member to approach:** Mr. Siraj Sir
+**Faculty member to approach:** Mr. Ankit Sir
 
 **Planned approach:**
 
