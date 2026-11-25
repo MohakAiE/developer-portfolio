@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Mohak's student developer portfolio.">
+  <title>Mohak Taheem | Developer Portfolio</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f7f9fc;
+      color: #263445;
+      line-height: 1.7;
+    }
+
+    a {
+      color: #0f766e;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    .topbar {
+      background: #ffffff;
+      border-bottom: 1px solid #e3e8ef;
+    }
+
+    .topbar-inner {
+      min-height: 68px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .logo {
+      color: #1d3f63;
+      font-size: 19px;
+      font-weight: bold;
+      letter-spacing: .3px;
+    }
+
+    nav {
+      display: flex;
+      gap: 22px;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: #245b57;
+      font-size: 14px;
+    }
+
+    .intro {
+      background: #ffffff;
+      margin-top: 34px;
+      padding: 42px;
+      border: 1px solid #e5eaf0;
+      border-radius: 10px;
+    }
+
+    .intro-label {
+      color: #4776a5;
+      font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      color: #1d3f63;
+      font-size: 38px;
+      line-height: 1.2;
+      margin: 10px 0 12px;
+    }
+
+    .intro p {
+      max-width: 690px;
+      color: #5b6877;
+    }
+
+    .intro-links {
+      margin-top: 22px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 9px 17px;
+      border: 1px solid #245b91;
+      border-radius: 5px;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    .button.primary {
+      background: #245b91;
+      color: #ffffff;
+    }
+
+    main {
+      padding: 12px 0 35px;
+    }
+
+    section {
+      margin-top: 30px;
+    }
+
+    .section-heading {
+      color: #1d3f63;
+      font-size: 22px;
+      margin-bottom: 14px;
+    }
+
+    .section-heading::after {
+      content: "";
+      display: block;
+      width: 42px;
+      height: 3px;
+      background: #80a9cf;
+      margin-top: 7px;
+      border-radius: 2px;
+    }
+
+    .about-text {
+      color: #596879;
+      max-width: 850px;
+    }
+
+    .project-list {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .project {
+      background: #ffffff;
+      border: 1px solid #e2e8ef;
+      border-radius: 8px;
+      padding: 21px;
+    }
+
+    .project h3 {
+      color: #294d70;
+      font-size: 17px;
+      margin-bottom: 8px;
+    }
+
+    .project p {
+      color: #617080;
+      font-size: 14px;
+      margin-bottom: 12px;
+    }
+
+    .project-link {
+      color: #0f766e;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin-top: 13px;
+    }
+
+    .tag {
+      background: #eef4fa;
+      color: #3e6387;
+      padding: 3px 9px;
+      border-radius: 4px;
+      font-size: 12px;
+    }
+
+    .info-panel {
+      background: #ffffff;
+      border: 1px solid #e2e8ef;
+      border-radius: 8px;
+      padding: 22px;
+    }
+
+    .skills-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 9px;
+    }
+
+    .skill {
+      background: #ffffff;
+      border: 1px solid #dce5ee;
+      color: #45596e;
+      padding: 7px 12px;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+
+    .info-panel p {
+      color: #596879;
+      margin-bottom: 8px;
+    }
+
+    .info-panel p:last-child {
+      margin-bottom: 0;
+    }
+
+    .resource-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 18px;
+      margin-top: 12px;
+    }
+
+    footer {
+      margin-top: 42px;
+      padding: 22px 0;
+      border-top: 1px solid #e1e7ed;
+      color: #7b8794;
+      font-size: 13px;
+      text-align: center;
+    }
+
+    @media (max-width: 650px) {
+      .topbar-inner {
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 16px 0;
+      }
+
+      nav {
+        gap: 12px 18px;
+      }
+
+      .intro {
+        padding: 27px 23px;
+        margin-top: 22px;
+      }
+
+      h1 {
+        font-size: 31px;
+      }
+
+      .project-list {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="topbar">
+    <div class="container topbar-inner">
+      <a class="logo" href="#">Mohak Taheem.</a>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#learning">Learning</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </div>
+
+  <div class="container">
+    <header class="intro">
+      <div class="intro-label">Student Developer · AI & Machine Learning</div>
+      <h1>Hi, I'm Mohak Taheem.</h1>
+      <p>
+        I'm pursuing B.Tech in Computer Science and Engineering (AI/ML) at
+        K.R. Mangalam University. I'm building my skills in programming,
+        web development and computer science, while learning through
+        hands-on projects.
+      </p>
+      <div class="intro-links">
+        <a class="button primary" href="https://github.com/MohakAiE" target="_blank" rel="noopener">GitHub Profile</a>
+        <a class="button" href="#projects">Explore Projects</a>
+      </div>
+    </header>
+
+    <main>
+      <section id="about">
+        <h2 class="section-heading">About Me</h2>
+        <p class="about-text">
+          I enjoy understanding how technology works and using what I learn
+          to build useful things. At the moment, I'm focusing on strengthening
+          my programming fundamentals, improving problem-solving, and exploring
+          practical applications of AI and machine learning. My goal is to keep
+          learning consistently and grow as a software and AI/ML engineer.
+        </p>
+      </section>
+
+      <section id="projects">
+        <h2 class="section-heading">Projects & Work</h2>
+        <div class="project-list">
+          <article class="project">
+            <h3>CSE103 Lab Work</h3>
+            <p>
+              University lab work covering Python basics, Git and GitHub,
+              Linux commands, shell scripting, Markdown and API interaction.
+            </p>
+            <a class="project-link" href="https://github.com/MohakAiE/cse103-lab-LAB3" target="_blank" rel="noopener">View repository →</a>
+            <div class="tags">
+              <span class="tag">Python</span>
+              <span class="tag">Git</span>
+              <span class="tag">Linux</span>
+              <span class="tag">Bash</span>
+            </div>
+          </article>
+
+          <article class="project">
+            <h3>FinWise</h3>
+            <p>
+              A student project focused on making financial learning
+              approachable for teenagers and young adults.
+            </p>
+            <div class="tags">
+              <span class="tag">Web Development</span>
+              <span class="tag">JavaScript</span>
+              <span class="tag">Student Project</span>
+            </div>
+          </article>
+
+          <article class="project">
+            <h3>Autonomous Agricultural Ground Scout</h3>
+            <p>
+              An ongoing project concept for a ground rover that collects
+              soil-moisture and crop-health information to help identify
+              possible crop stress.
+            </p>
+            <div class="tags">
+              <span class="tag">AI/ML</span>
+              <span class="tag">Sensors</span>
+              <span class="tag">Agriculture</span>
+            </div>
+          </article>
+
+          <article class="project">
+            <h3>Developer Portfolio</h3>
+            <p>
+              A central repository for my projects, learning roadmap
+              and progress as I develop my technical skills.
+            </p>
+            <a class="project-link" href="https://github.com/MohakAiE/developer-portfolio" target="_blank" rel="noopener">View repository →</a>
+            <div class="tags">
+              <span class="tag">HTML</span>
+              <span class="tag">CSS</span>
+              <span class="tag">GitHub</span>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="skills">
+        <h2 class="section-heading">Technical Skills</h2>
+        <div class="info-panel">
+          <div class="skills-list">
+            <span class="skill">Python</span>
+            <span class="skill">C++</span>
+            <span class="skill">HTML</span>
+            <span class="skill">CSS</span>
+            <span class="skill">JavaScript</span>
+            <span class="skill">Git & GitHub</span>
+            <span class="skill">Linux / Bash</span>
+            <span class="skill">VS Code</span>
+            <span class="skill">REST API Basics</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="learning">
+        <h2 class="section-heading">Learning & Certifications</h2>
+        <div class="info-panel">
+          <p><strong>HackerRank:</strong> Python Basic certification completed.</p>
+          <p><strong>LeetCode:</strong> Practising beginner problem-solving questions.</p>
+          <p><strong>freeCodeCamp:</strong> Working on HTML and CSS fundamentals.</p>
+          <div class="resource-links">
+            <a href="https://github.com/MohakAiE/developer-portfolio/blob/main/LEARNING_ROADMAP.md" target="_blank" rel="noopener">My Learning Roadmap</a>
+            <a href="https://github.com/MohakAiE/developer-portfolio/blob/main/PROGRESS.md" target="_blank" rel="noopener">My Progress Tracker</a>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact">
+        <h2 class="section-heading">Contact</h2>
+        <div class="info-panel">
+          <p>I'm open to learning, collaborating and working on student projects.</p>
+          <p><strong>GitHub:</strong> <a href="https://github.com/MohakAiE" target="_blank" rel="noopener">github.com/MohakAiE</a></p>
+          <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohak-taheem-67776836b" target="_blank" rel="noopener">linkedin.com/in/mohak-taheem-67776836b</a></p>
+          <p><strong>Email:</strong> <a href="mailto:2601730175@krmu.edu.in">2601730175@krmu.edu.in</a></p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Made by Mohak · HTML & CSS · 2026</p>
+    </footer>
+  </div>
+
+</body>
+</html>
