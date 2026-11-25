@@ -1,15 +1,15 @@
-# K.R. Mangalam University \| B.Tech CSE (AI/ML)
+# K.R. Mangalam University
 
-## Personalised Six-Semester Technical Learning Roadmap
+## B.Tech Computer Science & Engineering (AI/ML)
+
+# Personalised Six-Semester Technical Learning Roadmap
 
 **Student:** Mohak\
-**Programme:** B.Tech Computer Science & Engineering (AI/ML)\
-**University:** K.R. Mangalam University\
 **Expected graduation:** 2030\
-**Current stage:** Semester 1\
-**Primary specialisation (Semester 5 onwards):** Track B --- Data
-Science & AI/ML\
-**Mentor to approach:** Mr. Siraj Sir
+**Current semester:** Semester 1\
+**Chosen specialisation:** Track B --- Data Science & AI/ML\
+**Faculty mentor to approach:** Mr. Siraj Sir\
+**Last updated:** 25 November 2026
 
 ------------------------------------------------------------------------
 
@@ -18,257 +18,344 @@ Science & AI/ML\
 Scale: 1 = No knowledge, 2 = Beginner, 3 = Intermediate, 4 = Advanced.
 
   ------------------------------------------------------------------------
-  Skill area                           Current level Starting-point note
+  Skill                                Current level Development focus
   --------------------- ---------------------------- ---------------------
-  Python                                         2/4 Beginner; strengthen
-                                                     fundamentals and
-                                                     practise regularly
+  Python                                         2/4 Strengthen
+                                                     fundamentals,
+                                                     functions,
+                                                     collections and
+                                                     problem solving
 
-  Linux / Bash                          To self-rate Have used a Linux
-                                                     environment; assess
-                                                     command-line
-                                                     confidence
+  Linux / Bash                         2/4 Assess command-line
+                                                     navigation, files and
+                                                     basic shell commands
 
-  Git / GitHub                          To self-rate Have used
-                                                     repositories, commits
-                                                     and pushes; assess
-                                                     branching and
+  Git / GitHub                         2/4 Assess branching,
+                                                     pull/rebase, merge
+                                                     conflicts and
                                                      collaboration
 
-  DSA                                            1/4 Starting from
-                                                     fundamentals; focus
-                                                     on problem-solving
-                                                     basics
+  DSA                                            1/4 Start with arrays,
+                                                     strings, hash maps
+                                                     and basic complexity
 
-  Databases                             To self-rate Build SQL and
-                                                     database fundamentals
-                                                     during the core-CS
-                                                     stage
+  Databases                            2/4 Assess SQL, tables,
+                                                     keys and joins
 
-  Web Development                       To self-rate Have explored HTML,
-                                                     CSS and JavaScript;
-                                                     assess independently
+  Web Development                      3/4 Assess HTML, CSS and
+                                                     JavaScript
+                                                     fundamentals
   ------------------------------------------------------------------------
 
-*The levels explicitly supplied for this roadmap are Python 2/4 and DSA
-1/4. Complete the remaining self-ratings honestly in the lab record
-rather than guessing.*
+Python is rated 2/4 and DSA is rated 1/4. Linux/Bash, Git/GitHub, Databases and Web Development are set to 2/4 as requested.
 
 ## 2. Six-Semester Learning Roadmap
 
-The roadmap below is a plan, not a claim that future coursework or
-certifications are already completed. Semester 1 subjects are based on
-the subjects identified for the current KRMU B.Tech CSE AI/ML semester.
-Confirm future subject names against the university timetable and
-syllabus when each semester begins.
+Future semester subjects are planned learning areas, not confirmed KRMU
+course titles. Update them using the official syllabus and timetable for
+the enrolled section at the start of each semester.
 
 ### Semester 1 --- Foundations (Current)
 
-**University subjects** - Programming for Problem Solving Using Python
-(CSE101) - Web Development (HTML, CSS, JavaScript Basics) (CSE102) - CS
-Fundamentals & Career Pathways (CSE103) - Probability, Statistics &
-Linear Algebra (MAT001) - Basics of Electronics & Digital Logic Design
-(ECE001)
+**Current university subjects previously identified for this semester:**
 
-**Skills to build** - Python syntax, conditions, loops, functions,
-lists, strings and basic problem decomposition - Linux terminal basics
-and file navigation - Git/GitHub: repositories, add, commit, push and
-README files - HTML/CSS/JavaScript fundamentals - Binary numbers,
-digital logic and introductory mathematical foundations
+-   Programming for Problem Solving Using Python (CSE101)
+-   Web Development --- HTML, CSS and JavaScript Basics (CSE102)
+-   CS Fundamentals & Career Pathways (CSE103)
+-   Probability, Statistics & Linear Algebra (MAT001)
+-   Basics of Electronics & Digital Logic Design (ECE001)
 
-**Projects and portfolio** - Maintain the CSE103 lab portfolio and
-developer-portfolio repository - Keep a clear GitHub profile README and
-coding-platform progress tracker - Begin documenting the Autonomous
-Agri-Drone concept, its user problem and proposed system architecture
+**Subject verification:** The uploaded KRMU Odd Semester 2026--27 date
+sheet contains stream-specific entries and does not show the same
+subject set for every B.Tech CSE programme. The list above is the
+subject set previously identified for this roadmap. Compare it with the
+timetable/course registration for the exact AI/ML section before
+submission and change any stream-specific title or code that differs.
 
-**Platforms and learning targets** - HackerRank Python Introduction
-practice and Python (Basic) skill test - LeetCode: Two Sum and
-Palindrome Number; continue with beginner-friendly problems -
-freeCodeCamp: Cat Photo App and Cafe Menu labs; continue Responsive Web
-Design
+**Skills to build:**
 
-**Weekly habit** - Aim for 2--3 hours of focused self-study beyond
-scheduled lab hours, adjusting around university deadlines.
+-   Python: variables, data types, input/output, conditions, loops,
+    functions, lists, strings and dictionaries
+-   Problem solving: trace code, break problems into steps and debug
+    errors
+-   Linux/Bash: terminal navigation, folders, files and basic commands
+-   Git/GitHub: clone, status, add, commit, pull/rebase and push
+-   Web basics: semantic HTML, CSS selectors/layout and beginner
+    JavaScript
+-   Mathematics: algebra, probability, statistics and vectors for later
+    ML study
 
-### Semester 2 --- Programming and Core CS
+**Projects and portfolio:**
 
-**Planned university learning areas --- verify against the semester
-syllabus** - Data Structures and Algorithms - Object-Oriented
-Programming - Discrete mathematics or other mathematical foundations -
-Computer organisation / digital systems, as assigned - Continued
-programming laboratory work
+-   Maintain the CSE103 lab repository and developer-portfolio
+    repository.
+-   Keep the GitHub profile README and coding-platform progress tracker
+    updated.
+-   Create the initial README for **Autonomous Agri-Drone with AI/ML
+    Crop Stress Detection**, including the problem statement, intended
+    users, proposed data, high-level architecture and learning
+    requirements.
 
-**Skills to build** - Python OOP, classes, inheritance, modules and file
-handling - C++ fundamentals and implementation practice - Arrays,
-strings, linked lists, stacks, queues, searching and sorting - Basic
-time and space complexity
+**Platforms and targets:**
 
-**Project** - Build a DSA implementation repository with at least five
-data structures, examples, tests and a README.
+-   HackerRank: Python Introduction practice and Python (Basic) skill
+    test.
+-   LeetCode: Two Sum and Palindrome Number; continue with beginner
+    problems.
+-   freeCodeCamp: Cat Photo App and Cafe Menu; continue Responsive Web
+    Design.
 
-**Milestones** - Solve 25--30 beginner DSA problems over the semester,
-prioritising understanding over speed. - Complete one small Python OOP
-application. - Explore NPTEL's introductory programming courses if a
-relevant course is offered.
+**Weekly habit:** Aim for 2--3 hours of focused self-study outside
+scheduled classes/labs, adjusting around assessments and end-term exams.
 
-### Semester 3 --- Databases, Systems and Web Foundations
+### Semester 2 --- Programming and Core Computer Science
 
-**Planned university learning areas --- verify against the semester
-syllabus** - Database Management Systems - Operating Systems - Computer
-Networks - Data structures / algorithms continuation - Web or
-software-development laboratory work, as assigned
+**Planned university learning areas --- confirm against the official
+Semester 2 syllabus:**
 
-**Skills to build** - SQL: tables, keys, joins, grouping and basic
-indexes - MySQL or PostgreSQL fundamentals - HTTP, APIs and practical
-JavaScript - Core OS and networking concepts
+-   Data Structures and Algorithms
+-   Object-Oriented Programming
+-   Discrete mathematics / mathematical foundations
+-   Computer organisation or digital systems, if included
+-   Programming and problem-solving laboratory work
 
-**Project** - Build a Student Record Management System using Python and
-MySQL, with input validation, CRUD operations and documentation.
+**Skills to build:**
 
-**Milestones** - Complete a beginner SQL practice track. - Build and
-document one database-backed application. - Continue freeCodeCamp
-Responsive Web Design and work towards its certification.
+-   Python OOP: classes, objects, inheritance, modules and file handling
+-   C++ fundamentals and implementation practice
+-   Arrays, strings, linked lists, stacks, queues, searching and sorting
+-   Big-O notation and basic time/space complexity
 
-### Semester 4 --- Applied Development and ML Foundations
+**Project:** Build a DSA implementation repository with at least five
+data structures, sample inputs/outputs, simple tests and a clear README.
 
-**Planned university learning areas --- verify against the semester
-syllabus** - Design and Analysis of Algorithms - Software Engineering -
-Introductory AI/ML or data-oriented subjects, as assigned - Relevant
-laboratory and project work
+**Semester targets:**
 
-**Skills to build** - Statistics for data analysis: distributions,
-sampling and correlation - NumPy, Pandas, Matplotlib and exploratory
-data analysis - Introductory machine learning: regression,
-classification, model evaluation and overfitting - REST API basics using
-Flask or FastAPI
+-   Solve 25--30 beginner DSA problems across the semester, prioritising
+    understanding over speed.
+-   Complete one small Python OOP application.
+-   Explore a relevant NPTEL programming course if offered and suitable
+    for the workload.
 
-**Project** - Build a small end-to-end data or ML application: prepare a
-dataset, train a baseline model, evaluate it and expose a simple
+### Semester 3 --- Databases, Systems and Data Foundations
+
+**Planned university learning areas --- confirm against the official
+Semester 3 syllabus:**
+
+-   Database Management Systems
+-   Operating Systems
+-   Computer Networks
+-   Data Structures / Algorithms continuation
+-   Web or software-development laboratory work, if included
+
+**Skills to build:**
+
+-   SQL: tables, primary/foreign keys, joins, grouping and basic indexes
+-   MySQL or PostgreSQL fundamentals
+-   HTTP, REST APIs and practical JavaScript
+-   Core OS and networking concepts
+-   Data cleaning and exploratory data analysis with Pandas
+
+**Project:** Build a Student Record Management System using Python and
+MySQL, with CRUD operations, input validation and documentation.
+
+**Semester targets:**
+
+-   Complete a beginner SQL practice track.
+-   Build and document one database-backed application.
+-   Continue freeCodeCamp Responsive Web Design and work towards the
+    certification.
+
+### Semester 4 --- Applied Development and Machine Learning Foundations
+
+**Planned university learning areas --- confirm against the official
+Semester 4 syllabus:**
+
+-   Design and Analysis of Algorithms
+-   Software Engineering
+-   Introductory Artificial Intelligence / Machine Learning or
+    data-oriented subjects
+-   Relevant laboratory and project work
+
+**Skills to build:**
+
+-   Statistics for data analysis: distributions, sampling, correlation
+    and hypothesis basics
+-   NumPy, Pandas and Matplotlib
+-   Scikit-learn: regression, classification, train/test split and
+    evaluation metrics
+-   Model validation, overfitting and feature engineering
+-   REST API basics using Flask or FastAPI
+
+**Project:** Build an end-to-end ML mini-project: document a dataset,
+clean it, train a baseline model, evaluate it and present a simple
 demo/API.
 
-**Career preparation** - Prepare a one-page internship resume and keep
-GitHub repositories documented. - Start applying for relevant beginner
-internships and project opportunities before Semester 5. - Explore free
-learning paths on AWS Skill Builder; choose a certification only after
-checking its current cost, syllabus and relevance.
+**Career preparation:**
+
+-   Prepare a one-page internship resume and maintain clean GitHub
+    repositories.
+-   Start applying for beginner internships and project opportunities
+    before Semester 5.
+-   Explore free AWS Skill Builder learning paths; check current cost
+    and prerequisites before choosing a paid certification.
 
 ### Semester 5 --- Specialisation: Track B --- Data Science & AI/ML
 
-**Specialisation skills** - Python for data science: NumPy, Pandas and
-visualisation - Scikit-learn pipelines and model evaluation - Feature
-engineering, data cleaning and responsible dataset use - Deep-learning
-fundamentals; explore PyTorch or TensorFlow after ML foundations -
-Jupyter notebooks, experiment tracking and reproducible workflows -
-Introductory computer vision relevant to crop and leaf-stress analysis
+**Specialisation skills:**
 
-**Projects** 1. Develop an AI/ML crop-stress detection prototype using a
-suitable, documented image dataset. Establish a baseline, evaluate it
-and explain limitations. 2. Advance the Autonomous Agri-Drone project
-from concept to a safe, tested prototype plan. Separate the aerial-drone
-concept from any ground-rover scouting prototype, and document sensing,
-data collection, navigation constraints and human oversight.
+-   Python data stack: NumPy, Pandas, Matplotlib and Jupyter
+-   Scikit-learn pipelines, feature engineering and model evaluation
+-   Deep-learning foundations; progress to PyTorch or TensorFlow after
+    ML fundamentals
+-   Computer vision for image classification and crop/leaf-stress
+    analysis
+-   Reproducible experiments, version control and introductory model
+    deployment
 
-**Career milestones** - Apply for a summer internship in data science,
-machine learning or computer vision. - Participate in one suitable
-Kaggle competition or public-data project. - Publish project
-documentation, results and limitations on GitHub.
+**Projects:**
 
-**Certification direction** - Select a current, relevant ML or
-data-science course/certification after reviewing its prerequisites,
-availability and cost. Treat certificates as supporting evidence, not a
-substitute for projects.
+1.  Build an AI/ML crop-stress detection prototype using a documented,
+    appropriately licensed image dataset. Create a baseline model,
+    evaluate it and explain its limitations.
+2.  Advance the **Autonomous Agri-Drone with AI/ML Crop Stress
+    Detection** project with a scoped prototype plan, field-data
+    strategy, system diagram and supervised testing plan.
+
+**Career milestones:**
+
+-   Apply for a summer internship in data science, machine learning or
+    computer vision.
+-   Participate in one suitable Kaggle competition or public-data
+    project.
+-   Publish project documentation, evaluation results and limitations on
+    GitHub.
+
+**Certification direction:** Choose a current, relevant ML/data-science
+course or certification after reviewing its syllabus, prerequisites,
+availability and cost. A certificate supports the portfolio; it does not
+replace project work.
 
 ### Semester 6 --- Industry Readiness and Capstone
 
-**Capstone** - Complete a major team project with 3--4 members and a
-faculty or industry mentor. - Preferred direction: a documented AI/ML
-crop-stress detection system connected to the Autonomous Agri-Drone
-project, with a clearly scoped and safely tested prototype.
+**Capstone:**
 
-**Technical preparation** - Strengthen DSA: arrays, strings, hash maps,
-trees, graphs and common patterns - Practise Python coding interviews
-and SQL questions - Review DBMS, OS, networking, OOP and
-software-engineering fundamentals - Learn model deployment basics, API
-integration, testing and version control
+-   Complete a major team project with 3--4 members and a faculty or
+    industry mentor.
+-   Preferred direction: a documented crop-stress detection system
+    connected to the Agri-Drone project, with a clearly scoped and
+    safely tested prototype.
 
-**Portfolio and career** - Maintain at least five well-documented GitHub
-repositories, with the strongest projects pinned. - Prepare a concise
-resume highlighting projects, skills, verified certifications and
-internship experience where applicable. - Practise technical interviews,
-project explanations and mock interviews. - Apply through campus
-placement and suitable off-campus opportunities.
+**Technical preparation:**
 
-**End goal** - Graduate with a coherent AI/ML portfolio, practical
+-   Strengthen DSA: arrays, strings, hash maps, trees, graphs and common
+    problem-solving patterns
+-   Practise Python coding interviews and SQL questions
+-   Review DBMS, OS, networking, OOP and software-engineering
+    fundamentals
+-   Learn model/API deployment basics, testing and version control
+
+**Portfolio and career:**
+
+-   Maintain at least five well-documented GitHub repositories and pin
+    the strongest projects.
+-   Prepare a concise resume highlighting projects, verified
+    certifications and internship experience where applicable.
+-   Practise technical interviews, project explanations and mock
+    interviews.
+-   Apply through campus placements and suitable off-campus
+    opportunities.
+
+**End goal:** Graduate with a coherent AI/ML portfolio, practical
 project experience and readiness for entry-level software, data or
-ML-related opportunities. Placement is a target, not a guaranteed
-outcome.
+ML-related opportunities. A placement offer is a target, not a
+guaranteed outcome.
 
-------------------------------------------------------------------------
-
-## 3. Personal Project Focus
+## 3. Personal Project
 
 ### Autonomous Agri-Drone with AI/ML Crop Stress Detection
 
-**Problem:** Help identify possible crop stress early using collected
-crop/leaf images and relevant field observations.
+**Problem statement:** Explore how crop/leaf images and relevant field
+observations can help identify possible crop stress earlier, so that a
+farmer or field operator can investigate the affected area.
 
-**Planned learning stages** 1. Research the problem and review suitable
-public crop/leaf image datasets. 2. Learn image handling, data
-labelling, train/validation/test splits and baseline classification. 3.
-Evaluate model performance using suitable metrics; document dataset
-limitations and possible bias. 4. Explore how field observations such as
-soil moisture could complement image-based predictions. 5. Design a
-safe, supervised prototype and demonstrate the AI/ML component
-independently before considering any autonomous field deployment.
+**Planned development stages:**
 
-**Portfolio evidence** - Problem statement and system diagram - Dataset
-source and usage notes - Reproducible notebook and baseline model -
-Evaluation report, limitations and next steps - Demo and project README
+1.  Define the crop-stress problem and identify suitable public image
+    datasets with clear source and usage terms.
+2.  Learn image loading, labelling, dataset splitting and baseline
+    classification.
+3.  Train and evaluate a beginner image-classification model; report
+    suitable metrics and dataset limitations.
+4.  Explore how field observations, such as soil-moisture readings,
+    could complement image-based predictions.
+5.  Design a supervised prototype and document operational limits, human
+    oversight and safe testing before any real-world field deployment.
 
-------------------------------------------------------------------------
+**Portfolio evidence to publish:**
+
+-   Problem statement and system architecture diagram
+-   Dataset source, licence/usage notes and data-preparation steps
+-   Reproducible notebook and baseline model
+-   Evaluation report, limitations and next steps
+-   Demo, supervised prototype documentation (if built) and a clear
+    GitHub README
 
 ## 4. Three Concrete Monthly Targets --- Current Semester
 
-**Target month: December 2026**
+These targets are staged across the current semester and should be
+adjusted around KRMU assessment dates.
 
-1.  **Python:** Complete at least 10 beginner Python practice problems
-    and write a short note explaining the concepts used.
-2.  **DSA:** Learn arrays, strings and hash maps; attempt at least 5
-    beginner LeetCode problems and record what was learned from each
-    editorial.
-3.  **Portfolio/project:** Publish a first README for the Autonomous
-    Agri-Drone crop-stress project, including the problem statement,
-    proposed approach and learning plan.
+  -----------------------------------------------------------------------
+  Month                   Concrete target         Evidence to save
+  ----------------------- ----------------------- -----------------------
+  December 2026           Complete 5 Python       HackerRank/LeetCode
+                          practice problems and   links or short notes
+                          revise conditions,      
+                          loops, functions and    
+                          lists                   
 
-Track completion honestly in the GitHub repository at the end of the
-month.
+  January 2027            Learn arrays, strings   Problem log with
+                          and hash maps; attempt  approach and learning
+                          5 beginner DSA problems notes
 
-------------------------------------------------------------------------
+  February 2027           Publish the Agri-Drone  GitHub README, diagram
+                          project README and      and freeCodeCamp
+                          first system diagram;   progress
+                          complete 15 additional  
+                          freeCodeCamp steps      
+  -----------------------------------------------------------------------
+
+At each month-end, record actual completion rather than marking planned
+work as completed.
 
 ## 5. Mentorship Plan
 
-**Person to approach:** Mr. Siraj Sir
+**Faculty member to approach:** Mr. Siraj Sir
 
-**Planned approach** - Ask for guidance on choosing suitable beginner
-AI/ML learning resources. - Request feedback on the scope and
-feasibility of the crop-stress detection project. - Share a short
-progress update and GitHub project README when requesting feedback.
+**Planned approach:**
 
-*Mentorship is planned; no meeting or approval is implied until it takes
-place.*
+-   Request guidance on selecting beginner-friendly AI/ML learning
+    resources.
+-   Ask for feedback on the feasibility and scope of the crop-stress
+    detection project.
+-   Share the project README and a concise progress update when
+    requesting feedback.
 
-------------------------------------------------------------------------
+This is a planned mentorship approach; no meeting, approval or
+supervision is claimed until it has actually happened.
 
 ## 6. Key Milestones Timeline
 
   -----------------------------------------------------------------------
   Milestone                           Target outcome
   ----------------------------------- -----------------------------------
-  End of Semester 1                   CSE103 lab portfolio, GitHub
-                                      profile and Python foundations
+  End of Semester 1                   CSE103 lab portfolio, organised
+                                      GitHub profile and stronger Python
+                                      foundations
 
-  End of Semester 2                   DSA implementation repository with
-                                      five structures; stronger OOP
+  End of Semester 2                   DSA repository with five data
+                                      structures and improved OOP
 
   End of Semester 3                   SQL fundamentals and one
                                       database-backed project
@@ -284,13 +371,12 @@ place.*
                                       applications
   -----------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
-## 7. Review Schedule
+## 7. Review and Update Schedule
 
 -   Review this roadmap at the beginning of every semester.
--   Update planned subjects using the official KRMU syllabus and
-    timetable.
--   Record actual project progress, certificates and internship outcomes
-    only after completion.
--   Adjust targets around exams, labs and project workload.
+-   Replace planned subject areas with exact course names and codes from
+    the official KRMU syllabus for the enrolled section.
+-   Record projects, certifications, competitions and internship
+    outcomes only after they are actually completed.
+-   Adjust learning targets around exams, labs, team commitments and
+    project workload.
