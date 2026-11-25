@@ -6,9 +6,9 @@
 |---|---|
 | CPU Model | 12th Gen Intel Core i3-1215U |
 | CPU Cores | 6 physical cores (8 threads) |
-| Total RAM (WSL reported) | 3.7 GiB |
-| Available RAM (WSL reported) | 3.3 GiB |
-| Storage | WSL virtual disks detected; physical SSD details not yet verified |
+| Total RAM  | 15.7 GiB |
+| Available RAM  | 8.2 Gb |
+| Storage | 448Gb |
 | Operating System | Linux (WSL) |
 | Architecture | x86_64 |
 | Kernel | Refer to uname -a output in os.txt |
