@@ -8,14 +8,9 @@
 **Expected graduation:** 2030\
 **Current semester:** Semester 1\
 **Chosen specialisation:** Track B --- Data Science & AI/ML\
-**Faculty mentor to approach:** Mr. Siraj Sir\
 **Last updated:** 25 November 2026
 
 ------------------------------------------------------------------------
-
-## 1. Starting-Point Assessment
-
-Scale: 1 = No knowledge, 2 = Beginner, 3 = Intermediate, 4 = Advanced.
 
   ------------------------------------------------------------------------
   Skill                                Current level Development focus
@@ -47,7 +42,12 @@ Scale: 1 = No knowledge, 2 = Beginner, 3 = Intermediate, 4 = Advanced.
                                                      fundamentals
   ------------------------------------------------------------------------
 
-Python is rated 2/4 and DSA is rated 1/4. Linux/Bash, Git/GitHub, Databases and Web Development are set to 2/4 as requested.
+Python is rated 2/4 
+DSA is rated 1/4
+Linux/Bash is rated 2/4 
+Git/GitHub is rated 2/4 
+Databases is rated 2/4 
+Web Development is 3/4
 
 ## 2. Six-Semester Learning Roadmap
 
