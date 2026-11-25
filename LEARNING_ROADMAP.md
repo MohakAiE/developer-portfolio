@@ -40,6 +40,8 @@
   Web Development                      3/4 Assess HTML, CSS and
                                                      JavaScript
                                                      fundamentals
+
+                                                     
   ------------------------------------------------------------------------
 
 Python is rated 2/4 \
