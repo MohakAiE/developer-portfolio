@@ -1,0 +1,22 @@
+======================================
+       SYSTEM INFORMATION REPORT
+======================================
+Name: Mohak
+Roll Number: 2601730175
+Date: Wed Nov 25 18:48:29 UTC 2026
+
+CPU INFORMATION:
+CPU(s):                                  8
+Model name:                              12th Gen Intel(R) Core(TM) i3-1215U
+
+MEMORY INFORMATION:
+Total Memory: 3.7Gi
+Used Memory: 405Mi
+
+TOP 3 PROCESSES BY CPU USAGE:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+mohak       1217  100  0.1   7160  4376 pts/0    R+   18:48   0:00 ps aux --sort=-%cpu
+root          95  0.2  0.3  34792 12036 ?        Ss   18:29   0:02 /usr/lib/systemd/systemd-udevd
+root           1  0.1  0.3  24248 15356 ?        Ss   18:29   0:01 /sbin/init
+
+Report generated successfully.

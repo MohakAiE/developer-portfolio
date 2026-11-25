@@ -1,0 +1,2 @@
+Backup successful: backup_2026-11-25_18-50-06.tar.gz
+Backup size: 96K
