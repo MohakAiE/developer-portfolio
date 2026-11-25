@@ -1,0 +1,5 @@
+NAME   SIZE TYPE ROTA MODEL
+sda  722.9M disk    1 Virtual Disk
+sdb   97.4M disk    1 Virtual Disk
+sdc      1G disk    1 Virtual Disk
+sdd      1T disk    1 Virtual Disk
